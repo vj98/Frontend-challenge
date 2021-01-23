@@ -1,0 +1,27 @@
+.row {
+  justify-content: center;
+}
+
+.name {
+  justify-self: center;
+}
+
+.details {
+  flex-direction: column;
+}
+
+.price {
+  margin-bottom: 0.2rem;
+  flex-direction: row;
+}
+
+.btnadd {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 1rem !important;
+  margin-right: 0.1rem !important;
+}
+
+.add {
+  font-size: 2.5rem;
+}
